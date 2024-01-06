@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TzBZBPVlFGHc7rJHM5MNIGKsxvdlXJN5IehZT8T4h88=",
+  "Hash": "kKjW3hoz2LI/IHdukxvNo8oKKjrqubQ1lq4gHwlhGwU=",
   "Source": "NewChatApp",
   "BasePath": "_content/NewChatApp",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "G:\\Chat\\NewChatApp\\NewChatApp\\wwwroot\\js\\DeathlyHallows.js",
+      "SourceId": "NewChatApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Chat\\NewChatApp\\NewChatApp\\wwwroot\\",
+      "BasePath": "_content/NewChatApp",
+      "RelativePath": "js/DeathlyHallows.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\DeathlyHallows.js"
+    },
+    {
+      "Identity": "G:\\Chat\\NewChatApp\\NewChatApp\\wwwroot\\js\\houseGroup.js",
+      "SourceId": "NewChatApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Chat\\NewChatApp\\NewChatApp\\wwwroot\\",
+      "BasePath": "_content/NewChatApp",
+      "RelativePath": "js/houseGroup.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\houseGroup.js"
     },
     {
       "Identity": "G:\\Chat\\NewChatApp\\NewChatApp\\wwwroot\\js\\signalr.js",

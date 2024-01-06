@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "G:\\Chat\\NewChatApp\\NewChatApp\\wwwroot\\js\\DeathlyHallows.js",
+      "PackagePath": "staticwebassets\\js\\DeathlyHallows.js"
+    },
+    {
+      "Id": "G:\\Chat\\NewChatApp\\NewChatApp\\wwwroot\\js\\houseGroup.js",
+      "PackagePath": "staticwebassets\\js\\houseGroup.js"
+    },
+    {
       "Id": "G:\\Chat\\NewChatApp\\NewChatApp\\wwwroot\\js\\signalr.js",
       "PackagePath": "staticwebassets\\js\\signalr.js"
     },

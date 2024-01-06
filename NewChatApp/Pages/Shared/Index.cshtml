@@ -1,0 +1,52 @@
+﻿<div class="container">
+    <div class="row">
+        <div class="col-4">
+            Total View
+
+            <span id="totalViewsCounter">
+            </span>
+        </div>
+        <div class="col-4">
+            Total User
+
+            <span id="totalUsersCounter">
+            </span>
+        </div>
+    </div>
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div class="col-3">Sender</div>
+        <div class="col-4"><input type="text" id="senderEmail" /></div>
+    </div>
+    <div class="row">
+        <div class="col-3">Receiver</div>
+        <div class="col-4"><input type="text" id="receiverEmail" /></div>
+    </div>
+    <div class="row">
+        <div class="col-3">Message</div>
+        <div class="col-4"><input type="text" id="chatMessage" /></div>
+    </div>
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div class="col-6">
+            <input type="button" id="sendMessage" value="Send Message" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <hr />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <ul id="messagesList"></ul>
+        </div>
+    </div>
+</div>
+<script src="~/js/signalr.js">
+</script>
+<script src="~/js/DeathlyHallows.js">
+</script>
+<script src="~/js/houseGroup.js">
+</script>
+<script src="~/js/usersCount.js" />

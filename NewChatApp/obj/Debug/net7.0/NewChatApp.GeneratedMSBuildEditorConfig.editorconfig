@@ -20,12 +20,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/Chat/NewChatApp/NewChatApp/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [G:/Chat/NewChatApp/NewChatApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Chat/NewChatApp/NewChatApp/Pages/Shared/DeathlyHallowRace.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXERlYXRobHlIYWxsb3dSYWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Chat/NewChatApp/NewChatApp/Pages/Shared/HarryPotterRace.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEhhcnJ5UG90dGVyUmFjZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Chat/NewChatApp/NewChatApp/Pages/Shared/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [G:/Chat/NewChatApp/NewChatApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
